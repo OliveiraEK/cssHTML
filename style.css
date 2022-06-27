@@ -1,0 +1,35 @@
+h4{
+    color:#7bdff2;
+    border: double darkslateblue 1px;
+    /*
+    border-style: solid;
+    border-color:darkslateblue;
+    */
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+}
+
+ul{
+    color:#826aed;
+    font-size: 20px;
+}
+body{
+   background-image: url('fundo2.webp');
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+.taxiDrivers{
+    color:#826aed;
+}
+#titulo{
+    color: #522ff0;
+}
+
+
+/*
+*{
+    Para fazer uma configuração no site todo.
+}
+*/
+
+

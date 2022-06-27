@@ -1,0 +1,24 @@
+.a{
+    color: rgba(211, 216, 219, 0.829);
+}
+.b{
+    color: #6b65d6;
+}
+ul{
+    color: rgba(211, 216, 219, 0.829);
+}
+.c{
+    color: cornflowerblue;
+    border: double rgb(99, 143, 199)  1px;
+    background-color: #5a3f3f3f;
+}
+
+.d{
+    color: red;
+}
+
+
+body{
+    background-image: url("fundo.webp");
+    background-size: cover;
+}
